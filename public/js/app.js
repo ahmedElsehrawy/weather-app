@@ -1,4 +1,3 @@
-console.log("javaScript Client");
 const address = document.getElementById("address");
 const weatherForm = document.getElementById("weatherForm");
 var locationWeather = document.getElementById("location");
